@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-weatherproject",
+  "version": "1.0.0",
+  "description": "Angela Yu's Full Stack Web Development Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbourlotos/tutorial-WeatherProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asbourlotos/tutorial-WeatherProject/issues"
+  },
+  "homepage": "https://github.com/asbourlotos/tutorial-WeatherProject#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
